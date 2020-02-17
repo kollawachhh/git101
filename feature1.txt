@@ -1,2 +1,1 @@
-สร้างไฟล์ feature1.txt ใน branch feature1
-และอย่าลืม save file
+hello in feature
